@@ -1,0 +1,5 @@
+com\person\serviceimpl\test\bookService.class
+com\person\serviceimpl\aa.class
+com\person\serviceimpl\test\beforeAdvice.class
+com\person\serviceimpl\test\PointTest.class
+com\person\serviceimpl\test\anntationtest.class
