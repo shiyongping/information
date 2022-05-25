@@ -21,7 +21,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <springframework.version>4.1.4.RELEASE</springframework.version>
+        <springframework.version>5.2.22.RELEASE</springframework.version>
         <atom.version>4.2.0-SNAPSHOT</atom.version>
         <atom.busapi.version>1.0-SNAPSHOT</atom.busapi.version>
         <cxf.version>3.1.11</cxf.version>
